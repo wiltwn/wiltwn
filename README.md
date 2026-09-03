@@ -1,4 +1,4 @@
-# 💫 Hi, I'M WILDAN TAUFIK
+# 💫 Hi, I'm Wildan Taufik
 💻 Fullstack Developer<br>⚡ TypeScript, React, Next.js, Svelte<br>🛠️ Go, Node.js, Laravel<br>🔐 Interested in Cybersecurity & DevOps<br>🧠 Currently improving my programming fundamentals, problem-solving, and system design
 
 
